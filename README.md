@@ -42,6 +42,10 @@ ___
 
 # 嵌入式
 
+- [XRobot](https://github.com/xrobot-org/XRobot) 青岛大学-未来战队, 全兵种嵌入式软件框架, 2024
+- [OneMessage](https://github.com/Jiu-xiao/OneMessage) 青岛大学-未来战队, 基于发布-订阅模型的跨平台消息框架, 2023
+- [MiniShell](https://github.com/Jiu-xiao/mini_shell) 青岛大学-未来战队, 无需操作系统与动态内存分配的嵌入式Shell, 2023
+
 # 结构
 
 # 硬件
