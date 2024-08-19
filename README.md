@@ -24,32 +24,22 @@ ___
 ___
 
 # 官方资讯
-<a name="official"></a>
 
 ## 公告
-<a name="announcement"></a>
 
 ## 新闻
-<a name="news"></a>
 
 # 算法
-<a name="algorithm"></a>
 
 # 软件
-<a name="software"></a>
 
 # 嵌入式
-<a name="embeded"></a>
 
 # 结构
-<a name="mechanism"></a>
 
 # 硬件
-<a name="hardware"></a>
 
 # 数据集
-<a name="dataset"></a>
 
 # 培训/教程
-<a name="teaching"></a>
 
