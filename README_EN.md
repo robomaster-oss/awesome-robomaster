@@ -31,7 +31,14 @@ ___
 
 # Algorithms
 
+- [CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu) SJTU-Jiaolong, CV algorithm open source, 2021
+- [LCR_sjtu](https://github.com/COMoER/LCR_sjtu) SJTU-Jiaolong, Radar algorithm partial open source, 2021
+- [wust_engineer_robot_ws](https://github.com/chinaheyu/wust_engineer_robot_ws) WUST-Chongshi, Engineer CV Assistance Open Source, 2021
+
 # Software
+
+- [Ossian](https://github.com/StephanXu/Ossian) WIT-Nautilus, Ossian robot CV & control integrated framework open source, 2021
+- [Evolution](https://bbs.robomaster.com/forum.php?mod=viewthread&tid=12226) GUET-Evolution, CV software framework open source, 2021
 
 # Embedded Systems
 
@@ -42,3 +49,5 @@ ___
 # Datasets
 
 # Training/Tutorials
+
+- [vision_tutorial](https://github.com/NeoZng/vision_tutorial) **《An Introduction of CV & RoboMater CV Group》** Computer Vision and RoboMaster introductory manual and OpenCV basic API practice code warehouse
