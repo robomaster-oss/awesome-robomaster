@@ -1,0 +1,16 @@
+title: awesome-robomaster
+description: 🤖 🦾 关于机甲大师RoboMaster大赛，以及机器人开发相关开源项目汇总合集
+
+url: https://robomaster-oss.github.io/awesome-robomaster
+
+#logo: "logo.png"
+#favicon_ico: "facicon.jpeg"
+
+
+aux_links:
+  Github: https://github.com/robomaster-oss/awesome-robomaster
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: https://github.com/just-the-docs/just-the-docs
