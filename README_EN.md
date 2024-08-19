@@ -42,9 +42,9 @@ ___
 
 # Embedded Systems
 
-- [XRobot](https://github.com/xrobot-org/XRobot) QDU-WeiLai, Embedded software framework
-- [OneMessage](https://github.com/Jiu-xiao/OneMessage) QDU-WeiLai, Cross-platform messaging framework (publish-subscribe)
-- [MiniShell](https://github.com/Jiu-xiao/mini_shell) QDU-WeiLai, Embedded Shell without operating system and dynamic memory allocation
+- [XRobot](https://github.com/xrobot-org/XRobot) QDU-WeiLai, Embedded software framework, 2024
+- [OneMessage](https://github.com/Jiu-xiao/OneMessage) QDU-WeiLai, Cross-platform messaging framework (publish-subscribe), 2023
+- [MiniShell](https://github.com/Jiu-xiao/mini_shell) QDU-WeiLai, Embedded Shell without operating system and dynamic memory allocation, 2023
 
 # Mechanisms
 
