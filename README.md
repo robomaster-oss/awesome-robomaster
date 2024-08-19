@@ -33,6 +33,10 @@ ___
 
 - [CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu) 上海交通大学-云汉交龙战队, 视觉算法开源, 2021
 - [LCR_sjtu](https://github.com/COMoER/LCR_sjtu) 上海交通大学-云汉交龙战队, 雷达站算法部分开源, 2021
+- [PointCloudDetector](https://github.com/chenx-dust/PointCloudDetector) 哈尔滨工业大学（深圳）-南工骁鹰战队，雷达站点云定位模块，2023
+- [rm_radar](https://github.com/zmsbruce/rm_radar) 哈尔滨工业大学-I Hiter战队，雷达站，2024
+- [OpenRM-2024](https://github.com/HHgzs/OpenRM-2024) 天津大学-北洋机甲战队，自瞄开源算法库，2024
+- [TJURM-2024](https://github.com/HHgzs/TJURM-2024) 天津大学-北洋机甲战队，自瞄框架，2024
 
 # 软件
 
