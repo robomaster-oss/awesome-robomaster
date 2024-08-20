@@ -30,7 +30,10 @@ ___
 ## News
 
 # Algorithms
-
+- [rm_radar](https://github.com/zmsbruce/rm_radar) HIT-I Hiter，radar，2024
+- [OpenRM-2024](https://github.com/HHgzs/OpenRM-2024) TJU-Beiyang Jijia，auto_aim algorithm library，2024
+- [TJURM-2024](https://github.com/HHgzs/TJURM-2024) TJU-Beiyang Jijia，auto_aim frame，2024
+- [PointCloudDetector](https://github.com/chenx-dust/PointCloudDetector) HIT（Shenzhen）-Nangong Xiaoying，radar of cloud positioning module，2023
 - [CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu) SJTU-Jiaolong, CV algorithm open source, 2021
 - [LCR_sjtu](https://github.com/COMoER/LCR_sjtu) SJTU-Jiaolong, Radar algorithm partial open source, 2021
 - [wust_engineer_robot_ws](https://github.com/chinaheyu/wust_engineer_robot_ws) WUST-Chongshi, Engineer CV Assistance Open Source, 2021
